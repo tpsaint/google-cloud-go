@@ -1,5 +1,22 @@
 # Changes
 
+## [1.9.0](https://github.com/googleapis/google-cloud-go/compare/pubsublite/v1.8.1...pubsublite/v1.9.0) (2023-11-10)
+
+
+### Features
+
+* **pubsublite:** Update all direct dependencies ([b340d03](https://github.com/googleapis/google-cloud-go/commit/b340d030f2b52a4ce48846ce63984b28583abde6))
+
+
+### Bug Fixes
+
+* **pubsublite:** Bump google.golang.org/api to v0.149.0 ([8d2ab9f](https://github.com/googleapis/google-cloud-go/commit/8d2ab9f320a86c1c0fab90513fc05861561d0880))
+* **pubsublite:** REST query UpdateMask bug ([df52820](https://github.com/googleapis/google-cloud-go/commit/df52820b0e7721954809a8aa8700b93c5662dc9b))
+* **pubsublite:** Update golang.org/x/net to v0.17.0 ([174da47](https://github.com/googleapis/google-cloud-go/commit/174da47254fefb12921bbfc65b7829a453af6f5d))
+* **pubsublite:** Update grpc-go to v1.56.3 ([343cea8](https://github.com/googleapis/google-cloud-go/commit/343cea8c43b1e31ae21ad50ad31d3b0b60143f8c))
+* **pubsublite:** Update grpc-go to v1.59.0 ([81a97b0](https://github.com/googleapis/google-cloud-go/commit/81a97b06cb28b25432e4ece595c55a9857e960b7))
+* **pubsublite:** Use fieldmask directly instead of field_mask genproto alias ([#8029](https://github.com/googleapis/google-cloud-go/issues/8029)) ([30a196b](https://github.com/googleapis/google-cloud-go/commit/30a196b174445f694a7e0a3c7d77ee7c64bb50db))
+
 ## [1.8.1](https://github.com/googleapis/google-cloud-go/compare/pubsublite/v1.8.0...pubsublite/v1.8.1) (2023-05-11)
 
 
